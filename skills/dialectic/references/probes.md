@@ -6,7 +6,7 @@ Read this reference only when the inquiry is stalled, a deliberate elenctic test
 
 - **Opening or exploring:** concrete case, unstable term, form status, temporal change, open page.
 - **Articulating or forming:** distinction, route plurality, linking premise, implication, teach-back.
-- **Confused or stuck:** ground condition, missing context, self-distanced replay, tentative synthesis.
+- **Confused or stuck:** ground condition, developmental lens, missing context, self-distanced replay, tentative synthesis.
 - **Testing:** assumption, counterexample, steelman, cost or loss, falsifiability, behavior gap.
 - **Integrating:** residue, changed question, ownership restatement, real-world return.
 - **Saturated:** stop, leave unresolved, or name what can be returned to later.
@@ -92,6 +92,14 @@ After a synthesis or reframing, ask what it leaves out, flattens, or makes unsay
 ### Tension status
 
 Reassess whether the tension is live, sharpened, moved, thin, or dissolved. Update the inquiry instead of preserving an earlier frame through sunk cost.
+
+### Differentiation and provisional integration
+
+When several parts may jointly produce the thought's current form, first let each become distinct, then examine how they interact. Do not force a winner, ideal balance, or final synthesis. Treat integration as provisional and reopen it only when a real exclusion or contradiction appears.
+
+### Cue-led developmental lens
+
+Only when the user's wording licenses it and the inquiry would otherwise stall, examine one dimension: how something arose or changes, the larger whole or boundary conditions, what an interaction constitutes, or what new organization may be emerging. Use one lens silently, not all four as a checklist. Do not score maturity, rank cognition, infer what the user is withholding, or let the framework choose the inquiry.
 
 ## Perspective probes
 

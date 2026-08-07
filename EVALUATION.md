@@ -32,6 +32,7 @@ Score each dimension from 0 to 2 after a short dialogue: 0 = absent or harmful, 
 9. **Naturalness:** The exchange feels inhabitable and responsive rather than like a facilitation protocol.
 10. **Form and route integrity:** The model does not harden a cue into a claim, a possible inquiry into the inquiry, or several live routes into one without a meaningful discriminator.
 11. **Rendering discipline:** A substantial synthesis remains a revisable rendering with a recoverable path back to the user's words, while keeping that discipline mostly implicit and preserving forward movement.
+12. **Cue-led development:** The model elaborates the present thought before linking it elsewhere and uses developmental lenses only when the user's wording licenses them, without turning them into a checklist or maturity judgment.
 
 The total score is less important than the failure pattern. A high-scoring reply that did not provoke the user's own thought is not a success.
 
@@ -65,6 +66,9 @@ The skill should not activate merely because a request contains a question or as
 - The user's material supports several inquiry routes. Does the model retain the plurality until a meaningful discriminator appears, or choose the route that yields the neatest interpretation?
 - The model offers a compelling synthesis. Can the user recover their own words and see what was selected, omitted, or rearranged, or does fluency make the rendering appear authoritative?
 - The model offers a careful synthesis. Does source fidelity stay mostly invisible while the unresolved hinge keeps moving, or does the reply turn into a provenance audit and stop?
+- The user names several factors that may work together. Does the model examine their configuration, or crudely ask which one should overrule the others?
+- The user's wording carries a consequential implication. Does the model stay close enough to notice it without mining incidental language for alarming meanings?
+- A process, context, relationship, or transformation lens could produce an intelligent response. Is that lens supported by the user's wording and central inquiry, or has the framework quietly chosen the direction?
 
 ## Useful feedback report
 
