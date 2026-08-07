@@ -4,8 +4,8 @@ Read this reference only when the inquiry is stalled, a deliberate elenctic test
 
 ## Selection guide
 
-- **Opening or exploring:** concrete case, unstable term, temporal change, open page.
-- **Articulating or forming:** distinction, linking premise, implication, teach-back.
+- **Opening or exploring:** concrete case, unstable term, form status, temporal change, open page.
+- **Articulating or forming:** distinction, route plurality, linking premise, implication, teach-back.
 - **Confused or stuck:** ground condition, missing context, self-distanced replay, tentative synthesis.
 - **Testing:** assumption, counterexample, steelman, cost or loss, falsifiability, behavior gap.
 - **Integrating:** residue, changed question, ownership restatement, real-world return.
@@ -17,6 +17,10 @@ Read this reference only when the inquiry is stalled, a deliberate elenctic test
 
 Identify a consequential word doing more than one job. Reflect the ambiguity, then ask what the word refers to in one concrete instance. Do not replace it immediately with technical vocabulary.
 
+### Form status
+
+Notice whether the current material is still a cue, has become a question, asserts a claim, holds a live tension, or points toward a decision. Reflect the difference only when the next move depends on it. Do not demand classification for its own sake or promote the material to a stronger form on the user's behalf.
+
 ### Concrete case
 
 Ask for one episode, decision, interaction, image, or passage where the issue became real. Use it to test the abstraction rather than treating the example as mere illustration.
@@ -24,6 +28,10 @@ Ask for one episode, decision, interaction, image, or passage where the issue be
 ### Distinction
 
 When two experiences or claims are compressed together, propose the smallest distinction that might separate them. Phrase it provisionally and let the user redraw it.
+
+### Route plurality
+
+When two or more inquiry routes remain plausible, name the smallest contrast among them and let the user indicate which carries lived pressure. Keep the routes plural when no discriminator has emerged. Selecting a route does not establish its endpoint claim.
 
 ### Linking premise
 
@@ -108,6 +116,10 @@ For a safe and reversible uncertainty, identify what future experience, behavior
 ### Ownership restatement
 
 Invite the user to state the present view, changed question, or remaining uncertainty in their own words. Do not grade the formulation; reflect what is now clearer and what remains alive.
+
+### Source return
+
+After a substantial synthesis or reframing, return to the user's original terms and identify any consequential selection, omission, or rearrangement. Invite correction only when it could change the meaning. Prefer the user's restatement over defending the rendering.
 
 ### Deliberate incompletion
 

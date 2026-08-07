@@ -51,7 +51,9 @@ Switch to hard elenchus and test the strongest version of this belief.
 - attributing hidden motives or experience to the user;
 - testing a thought before the user can articulate it;
 - manufacturing a binary or contradiction for dramatic effect;
+- hardening a cue into a claim or collapsing several live inquiries into the neatest one;
 - replacing reflection with advice, diagnosis, coaching, or a polished assistant synthesis;
+- treating an elegant synthesis as the discovered truth of the user's experience;
 - confusing discomfort, eloquence, agreement, or response length with insight.
 
 ## Literature
@@ -63,6 +65,10 @@ Literary and philosophical references are deliberately rare. A bridge should app
 See [EVALUATION.md](EVALUATION.md) for prompts and a rubric. The central question is not "Was the model impressive?" but "Did the user's own representation of the problem move?"
 
 Feedback and counterexamples are welcome through [GitHub Issues](https://github.com/ivanoid/dialectic/issues). Especially useful reports include the triggering prompt, several dialogue turns, what changed in the user's thinking, and where the method felt mechanical, leading, or inert. Please remove personal or identifying material before posting.
+
+## Conceptual influences
+
+The skill's discipline around preserving early cues, keeping several inquiry routes alive, seeking the smallest useful movement, and knowing when to stop or reopen was sharpened through engagement with Anatoly Levenchuk's [First Principles Framework](https://github.com/ailev/FPF). Dialectic adapts those ideas lightly for natural conversation; it does not implement FPF or expose its formal vocabulary to the user.
 
 ## License
 
