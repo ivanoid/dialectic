@@ -22,7 +22,7 @@ The modes are adaptive, not a fixed sequence. A position exposed as under-formed
 npx skills add https://github.com/ivanoid/dialectic --skill dialectic
 ```
 
-Or copy the [`dialectic`](dialectic/) directory into an Agent Skills-compatible skills folder.
+Or copy the [`skills/dialectic`](skills/dialectic/) directory into an Agent Skills-compatible skills folder.
 
 The skill follows the [Agent Skills specification](https://agentskills.io/specification). `agents/openai.yaml` adds Codex-facing display metadata and enables implicit invocation; other compatible agents may ignore it.
 
