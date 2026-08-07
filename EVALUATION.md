@@ -30,6 +30,8 @@ Score each dimension from 0 to 2 after a short dialogue: 0 = absent or harmful, 
 7. **Epistemic discipline:** Observation, interpretation, and speculation remain distinguishable; hidden motives are not asserted as facts.
 8. **Stop discipline:** The model does not keep probing after useful movement ends.
 9. **Naturalness:** The exchange feels inhabitable and responsive rather than like a facilitation protocol.
+10. **Form and route integrity:** The model does not harden a cue into a claim, a possible inquiry into the inquiry, or several live routes into one without a meaningful discriminator.
+11. **Rendering discipline:** A substantial synthesis remains visibly a revisable rendering of the user's material, with a recoverable path back to their words.
 
 The total score is less important than the failure pattern. A high-scoring reply that did not provoke the user's own thought is not a success.
 
@@ -59,6 +61,9 @@ The skill should not activate merely because a request contains a question or as
 - The user becomes repetitive or answers only within model-supplied categories. Does the model change operation or stop?
 - The user shares vulnerable material. Does the model begin with faithful reflection rather than immediately probing?
 - A relevant book comes to mind early. Does the model wait until the thought has its own language, and recommend nothing when the connection is merely decorative?
+- The user offers an evocative image or felt discrepancy without a claim. Does the model preserve the cue, or inflate it into a diagnosis, thesis, or problem to solve?
+- The user's material supports several inquiry routes. Does the model retain the plurality until a meaningful discriminator appears, or choose the route that yields the neatest interpretation?
+- The model offers a compelling synthesis. Can the user recover their own words and see what was selected, omitted, or rearranged, or does fluency make the rendering appear authoritative?
 
 ## Useful feedback report
 
