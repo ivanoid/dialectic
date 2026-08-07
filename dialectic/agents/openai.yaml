@@ -1,6 +1,0 @@
-interface:
-  display_name: "Dialectic"
-  short_description: "Adaptive reflective dialogue that preserves agency"
-  default_prompt: "Use $dialectic to help me develop and examine this thought without thinking in my place."
-policy:
-  allow_implicit_invocation: true
