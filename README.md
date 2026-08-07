@@ -54,6 +54,8 @@ Switch to hard elenchus and test the strongest version of this belief.
 - hardening a cue into a claim or collapsing several live inquiries into the neatest one;
 - replacing reflection with advice, diagnosis, coaching, or a polished assistant synthesis;
 - treating an elegant synthesis as the discovered truth of the user's experience;
+- introducing a developmental or relational lens because a framework makes it available rather than because the user's wording calls for it;
+- scoring developmental maturity or inferring what the user is withholding;
 - confusing discomfort, eloquence, agreement, or response length with insight.
 
 ## Literature
@@ -69,6 +71,8 @@ Feedback and counterexamples are welcome through [GitHub Issues](https://github.
 ## Conceptual influences
 
 The skill's discipline around preserving early cues, keeping several inquiry routes alive, seeking the smallest useful movement, and knowing when to stop or reopen was sharpened through engagement with Anatoly Levenchuk's [First Principles Framework](https://github.com/ailev/FPF). Dialectic adapts those ideas lightly for natural conversation; it does not implement FPF or expose its formal vocabulary to the user.
+
+A second selective influence comes from Veraksa, Basseches, and Brandão's account of [dialectical thinking as differentiation and provisional integration](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.710815/full), and Otto Laske's practice of [elaborating a thought before linking it through developmental lenses](https://integralleadershipreview.com/15338-422-new-approach-dialog-teaching-dialectical-thought-form-framework-part-ii-dialoging-tools-dialectic/). Dialectic uses these as cue-led fallback heuristics, not as a thought-form taxonomy, cognitive profile, or developmental ranking.
 
 ## License
 
